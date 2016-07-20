@@ -1,6 +1,5 @@
 # Android开源项目
-Android开源项目，旨在搜集平常工作中遇到和可能需要用到的一些好的开源项目。
-
+*[简单语法参考链接](http://www.cnblogs.com/hnrainll/p/3514637.html)
 ##**快速开发**
 *  项目快速开发功能
  * [多样式banner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) 
