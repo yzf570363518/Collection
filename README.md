@@ -16,3 +16,5 @@
  * [拍照图库选择图片](https://github.com/pengjianbo/GalleryFinal) 
  * [拍照图库选择图片2](https://github.com/ioneday/ImageSelector) 
  * [拍照图库选择图片3](https://github.com/lijunguan/AlbumSelector)
+ * [浏览图片放大旋转as](https://github.com/bm-x/PhotoView)
+ * [浏览图片放大旋转eclipse](https://github.com/panhuachao/PhotoViewer)
