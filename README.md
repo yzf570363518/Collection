@@ -10,9 +10,9 @@ Android开源项目，旨在搜集平常工作中遇到和可能需要用到的�
  * []()
  * []()
 *  自定义控件
+  * [下拉刷新上拉加载更多,试用所有View](https://github.com/lynnchurch/PullToRefresh)
   * [XListView](https://github.com/Maxwin-z/XListView-Android)
   * [XRefreshView](http://download.csdn.net/detail/footballclub/8848725#comment)(csdn)
-  * [下拉刷新上拉加载更多,试用所有View](https://github.com/lynnchurch/PullToRefresh)
 *  图库拍照选择图片
  * [拍照图库选择图片](https://github.com/pengjianbo/GalleryFinal) 
  * [拍照图库选择图片2](https://github.com/ioneday/ImageSelector) 
