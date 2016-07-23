@@ -12,6 +12,8 @@
   * [下拉刷新上拉加载更多,试用所有View](https://github.com/lynnchurch/PullToRefresh)
   * [XListView](https://github.com/Maxwin-z/XListView-Android)
   * [XRefreshView](http://download.csdn.net/detail/footballclub/8848725#comment)(csdn)
+*  工具类
+  * [android工具类](https://github.com/h4de5ing/AndroidCommon)
 *  图库拍照选择图片
  * [拍照图库选择图片](https://github.com/pengjianbo/GalleryFinal) 
  * [拍照图库选择图片2](https://github.com/ioneday/ImageSelector) 
