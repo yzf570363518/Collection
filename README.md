@@ -10,7 +10,8 @@
  * [仿Android联系人SideBar排序，根据拼音A-Z字母快速查找，以及输入搜索条件过滤，显示姓名的文字图片。](https://github.com/finddreams/SortedContactUI)
  * []()
 *  自定义控件
-  * [下拉刷新上拉加载更多,试用所有View](https://github.com/lynnchurch/PullToRefresh)
+  * [下拉刷新上拉加载更多,基于UITra-pull-to-refresh](https://github.com/Chanven/CommonPullToRefresh)
+  * [下拉刷新上拉加载更多,适用所有View](https://github.com/lynnchurch/PullToRefresh)
   * [XListView](https://github.com/Maxwin-z/XListView-Android)
   * [XRefreshView](http://download.csdn.net/detail/footballclub/8848725#comment)(csdn)
 *  工具类
