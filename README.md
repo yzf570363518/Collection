@@ -11,6 +11,7 @@
  * []()
 *  自定义控件
   * [下拉刷新上拉加载更多,基于UITra-pull-to-refresh](https://github.com/Chanven/CommonPullToRefresh)
+  * [android下拉刷新/加载更多组件库](https://github.com/pengjianbo/LoadingViewFinal)
   * [下拉刷新上拉加载更多,适用所有View](https://github.com/lynnchurch/PullToRefresh)
   * [XListView](https://github.com/Maxwin-z/XListView-Android)
   * [XRefreshView](http://download.csdn.net/detail/footballclub/8848725#comment)(csdn)
