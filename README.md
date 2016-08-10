@@ -5,6 +5,7 @@
  * [多样式banner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner) 
  * [简易的banner](https://github.com/angeldevil/AutoScrollViewPager)
  * [多样式tab切换(可结合viewpager)](https://github.com/H07000223/FlycoTabLayout)
+ * [易扩展的 ViewPager 指示器框架(可结合viewpager)](https://github.com/hackware1993/MagicIndicator)
  * [仿微信QQ空间9宫格图片显示](https://github.com/laobie/NineGridImageView)
  * [Android动画之仿美团加载数据等待时，小人奔跑进度动画对话框（附顺丰快递员奔跑效果）](http://blog.csdn.net/finddreams/article/details/43194799)
  * [仿Android联系人SideBar排序，根据拼音A-Z字母快速查找，以及输入搜索条件过滤，显示姓名的文字图片。](https://github.com/finddreams/SortedContactUI)
