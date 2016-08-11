@@ -8,6 +8,7 @@
  * [易扩展的 ViewPager 指示器框架(可结合viewpager)](https://github.com/hackware1993/MagicIndicator)
  * [仿微信QQ空间9宫格图片显示](https://github.com/laobie/NineGridImageView)
  * [Android动画之仿美团加载数据等待时，小人奔跑进度动画对话框（附顺丰快递员奔跑效果）](http://blog.csdn.net/finddreams/article/details/43194799)
+ * [高仿58同城，美团，赶集网切换城市](http://download.csdn.net/detail/dmk877/9271919)
  * [仿Android联系人SideBar排序，根据拼音A-Z字母快速查找，以及输入搜索条件过滤，显示姓名的文字图片。](https://github.com/finddreams/SortedContactUI)
  * []()
 *  自定义控件
