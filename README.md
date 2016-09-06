@@ -12,7 +12,7 @@
  * [高仿58同城，美团，赶集网切换城市](http://download.csdn.net/detail/dmk877/9271919)
  * [仿Android联系人SideBar排序，根据拼音A-Z字母快速查找，以及输入搜索条件过滤，显示姓名的文字图片。](https://github.com/finddreams/SortedContactUI)
  * [UniversalVideoView视频播放](https://github.com/linsea/UniversalVideoView)
- * [Item侧滑菜单，长按拖拽Item](http://www.jcodecraeer.com/a/opensource/2016/0805/4574.html)
+ * [Item侧滑菜单，长按拖拽Item，滑动删除Item。可以和任何下拉刷新框架结合使用](http://www.jcodecraeer.com/a/opensource/2016/0805/4574.html)
  * [textview部分字体颜色改变](https://github.com/quiqueqs/BabushkaText)
 *  自定义控件
   * [下拉刷新上拉加载更多,基于UITra-pull-to-refresh](https://github.com/Chanven/CommonPullToRefresh)
