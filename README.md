@@ -29,3 +29,4 @@
  * [拍照图库选择图片3](https://github.com/lijunguan/AlbumSelector)
  * [浏览图片放大旋转as](https://github.com/bm-x/PhotoView)
  * [浏览图片放大旋转eclipse](https://github.com/panhuachao/PhotoViewer)
+tag:^(?!.*(jpush)).*$
