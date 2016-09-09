@@ -20,9 +20,12 @@
   * [下拉刷新上拉加载更多,适用所有View](https://github.com/lynnchurch/PullToRefresh)
   * [XListView](https://github.com/Maxwin-z/XListView-Android)
   * [XRefreshView](http://download.csdn.net/detail/footballclub/8848725#comment)(csdn)
+  * [CoverFlow卡片式Viewpager](https://github.com/moondroid/CoverFlow)
+*  功能
+  * [倒计时](http://www.jcodecraeer.com/a/opensource/2015/1016/3586.html)
+  * [雷达扫描](http://www.jcodecraeer.com/a/opensource/2015/0925/3514.html)
 *  工具类
   * [android工具类](https://github.com/h4de5ing/AndroidCommon)
- 
 *  图库拍照选择图片
  * [拍照图库选择图片](https://github.com/pengjianbo/GalleryFinal) 
  * [拍照图库选择图片2](https://github.com/ioneday/ImageSelector) 
