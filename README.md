@@ -21,6 +21,8 @@
   * [下拉刷新上拉加载更多,适用所有View](https://github.com/lynnchurch/PullToRefresh)
   * [XListView](https://github.com/Maxwin-z/XListView-Android)
   * [XRefreshView](http://download.csdn.net/detail/footballclub/8848725#comment)(csdn)
+  * [Android自定义控件之SpanTextView](http://thinkdevos.net/blog/20160927/android-spantextview)
+  * [BabushkaText](https://github.com/quiqueqs/BabushkaText)
 *  功能
   * [浏览图片放大旋转as](https://github.com/bm-x/PhotoView)
   * [浏览图片放大旋转eclipse](https://github.com/panhuachao/PhotoViewer)
@@ -38,5 +40,8 @@
  * [拍照图库选择图片3](https://github.com/lijunguan/AlbumSelector)
  * [高斯模糊库，四种模糊方式](http://www.jcodecraeer.com/a/opensource/2016/0725/4526.html)
  * [Android图片压缩工具，仿微信朋友圈压缩策略](https://github.com/Curzibn/Luban)
+ * [ShapeImageView](https://github.com/andyxialm/ShapeImageView)
+ * [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView)
+ * [SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView)
 
 tag:^(?!.*(jpush)).*$
