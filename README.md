@@ -32,6 +32,7 @@
   * [雷达扫描](http://www.jcodecraeer.com/a/opensource/2015/0925/3514.html)
   * [一个简单，强大的广告活动弹窗控件](https://github.com/yipianfengye/android-adDialog)
   * [本类库可以对ImageView，View Background，Drawable和Bitmap添加风格与设置亮度、对比度。](https://github.com/chengdazhi/StyleImageView)
+  * [Android流式布局实现多行Checkbox功能](http://www.jianshu.com/p/3e06bde5a53b)
 *  工具类
   * [android工具类](https://github.com/h4de5ing/AndroidCommon)
 *  图片拍照图库
