@@ -34,6 +34,7 @@
   * [本类库可以对ImageView，View Background，Drawable和Bitmap添加风格与设置亮度、对比度。](https://github.com/chengdazhi/StyleImageView)
   * [Android流式布局实现多行Checkbox功能](http://www.jianshu.com/p/3e06bde5a53b)
   * [Android各种图标库](https://github.com/xcltapestry/XCL-Charts)
+  * [多种倒计时](https://github.com/iwgang/CountdownView)
 *  工具类
   * [android工具类](https://github.com/h4de5ing/AndroidCommon)
 *  图片拍照图库
