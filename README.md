@@ -22,6 +22,10 @@
   * [XListView](https://github.com/Maxwin-z/XListView-Android)
   * [XRefreshView](http://download.csdn.net/detail/footballclub/8848725#comment)(csdn)
   * [Android自定义控件之SpanTextView](http://thinkdevos.net/blog/20160927/android-spantextview)
+  * [Android 仿应用宝下载进度条](http://blog.csdn.net/u011102153/article/details/52367206)
+  * [安卓开发之自定义带加载进度的按钮ProgressButton](http://blog.csdn.net/cxmscb/article/details/52493475)
+  * [Android 自定义水平进度条的圆角进度](http://blog.csdn.net/lv_fq/article/details/51762209)
+  * [【Android自定义View实战】之自定义评价打分控件RatingBar，可以自定义星星大小和间距](http://blog.csdn.net/linglongxin24/article/details/52918701)
   * [BabushkaText](https://github.com/quiqueqs/BabushkaText)
 *  功能
   * [浏览图片放大旋转as](https://github.com/bm-x/PhotoView)
