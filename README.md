@@ -27,6 +27,7 @@
   * [Android 自定义水平进度条的圆角进度](http://blog.csdn.net/lv_fq/article/details/51762209)
   * [【Android自定义View实战】之自定义评价打分控件RatingBar，可以自定义星星大小和间距](http://blog.csdn.net/linglongxin24/article/details/52918701)
   * [BabushkaText](https://github.com/quiqueqs/BabushkaText)
+  * [一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果。](https://github.com/yanbober/AvatarLabelView)
 *  功能
   * [浏览图片放大旋转as](https://github.com/bm-x/PhotoView)
   * [浏览图片放大旋转eclipse](https://github.com/panhuachao/PhotoViewer)
@@ -39,6 +40,11 @@
   * [Android流式布局实现多行Checkbox功能](http://www.jianshu.com/p/3e06bde5a53b)
   * [Android各种图标库](https://github.com/xcltapestry/XCL-Charts)
   * [多种倒计时](https://github.com/iwgang/CountdownView)
+  * [高仿钉钉和小米的日历控件](http://www.jianshu.com/p/622fdded4dc9)
+  * [【Android开源库】美团等APP城市选择](http://www.jianshu.com/p/b469c6f02754)
+  * [探索日期滚轮控件的源码](https://gold.xitu.io/post/5858a8f3b123db00658b1191)
+  * [数字增加动画的 TextView](https://github.com/Bakumon/NumberAnimTextView)
+  * [自定义TextView支持字符串中指定字体的颜色 大小 样式](http://www.jianshu.com/p/69a7493c22f9)
 *  工具类
   * [android工具类](https://github.com/h4de5ing/AndroidCommon)
 *  图片拍照图库
@@ -49,6 +55,7 @@
  * [Android图片压缩工具，仿微信朋友圈压缩策略](https://github.com/Curzibn/Luban)
  * [ShapeImageView](https://github.com/andyxialm/ShapeImageView)
  * [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView)
+ * [圆形图片、圆角图片、椭圆图片](https://github.com/RaphetS/RoundImageView)
  * [SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView)
 
 tag:^(?!.*(jpush)).*$
