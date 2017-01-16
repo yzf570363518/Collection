@@ -28,6 +28,7 @@
   * [【Android自定义View实战】之自定义评价打分控件RatingBar，可以自定义星星大小和间距](http://blog.csdn.net/linglongxin24/article/details/52918701)
   * [BabushkaText](https://github.com/quiqueqs/BabushkaText)
   * [一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果。](https://github.com/yanbober/AvatarLabelView)
+  * [封装到的selector](http://www.jianshu.com/p/0f9ed8e733f5)
 *  功能
   * [浏览图片放大旋转as](https://github.com/bm-x/PhotoView)
   * [浏览图片放大旋转eclipse](https://github.com/panhuachao/PhotoViewer)
