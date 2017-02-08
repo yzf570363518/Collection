@@ -44,6 +44,7 @@
   * [高仿钉钉和小米的日历控件](http://www.jianshu.com/p/622fdded4dc9)
   * [【Android开源库】美团等APP城市选择](http://www.jianshu.com/p/b469c6f02754)
   * [探索日期滚轮控件的源码](https://gold.xitu.io/post/5858a8f3b123db00658b1191)
+  * [多种时间选择器](https://github.com/JZXiang/TimePickerDialog)
   * [数字增加动画的 TextView](https://github.com/Bakumon/NumberAnimTextView)
   * [自定义TextView支持字符串中指定字体的颜色 大小 样式](http://www.jianshu.com/p/69a7493c22f9)
 *  工具类
