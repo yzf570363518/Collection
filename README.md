@@ -47,6 +47,7 @@
   * [多种时间选择器](https://github.com/JZXiang/TimePickerDialog)
   * [数字增加动画的 TextView](https://github.com/Bakumon/NumberAnimTextView)
   * [自定义TextView支持字符串中指定字体的颜色 大小 样式](http://www.jianshu.com/p/69a7493c22f9)
+  * [步骤流程图StepView](https://github.com/zhangxuyang321/StepView)
 *  工具类
   * [android工具类](https://github.com/h4de5ing/AndroidCommon)
 *  图片拍照图库
