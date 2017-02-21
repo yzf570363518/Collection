@@ -29,6 +29,8 @@
   * [BabushkaText](https://github.com/quiqueqs/BabushkaText)
   * [一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果。](https://github.com/yanbober/AvatarLabelView)
   * [封装到的selector](http://www.jianshu.com/p/0f9ed8e733f5)
+  * [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
+  * [动画lottie-android](https://github.com/airbnb/lottie-android)
 *  功能
   * [浏览图片放大旋转as](https://github.com/bm-x/PhotoView)
   * [浏览图片放大旋转eclipse](https://github.com/panhuachao/PhotoViewer)
