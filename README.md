@@ -25,7 +25,7 @@
   * [Android 仿应用宝下载进度条](http://blog.csdn.net/u011102153/article/details/52367206)
   * [安卓开发之自定义带加载进度的按钮ProgressButton](http://blog.csdn.net/cxmscb/article/details/52493475)
   * [Android 自定义水平进度条的圆角进度](http://blog.csdn.net/lv_fq/article/details/51762209)
-  * [【Android自定义View实战】之自定义评价打分控件RatingBar，可以自定义星星大小和间距](http://blog.csdn.net/linglongxin24/article/details/52918701)
+  * [【Android自定义View实战】之自定义评价打分控件RatingBar，可以自定义星星大小和间距](http://blog.csdn.net/linglongxin24/article/details/52918701)(https://github.com/GHdeng/StarBarExample)
   * [BabushkaText](https://github.com/quiqueqs/BabushkaText)
   * [一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果。](https://github.com/yanbober/AvatarLabelView)
   * [封装到的selector](http://www.jianshu.com/p/0f9ed8e733f5)
