@@ -51,6 +51,7 @@
   * [自定义TextView支持字符串中指定字体的颜色 大小 样式](http://www.jianshu.com/p/69a7493c22f9)
   * [步骤流程图StepView](https://github.com/zhangxuyang321/StepView)
   * [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)
+  * [Android--仿淘宝商品详情(继续拖动查看详情)及标题栏渐变](http://blog.csdn.net/lyhhj/article/details/52510844)
 *  工具类
   * [android工具类](https://github.com/h4de5ing/AndroidCommon)
 *  图片拍照图库
