@@ -31,6 +31,8 @@
   * [封装到的selector](http://www.jianshu.com/p/0f9ed8e733f5)
   * [excelPanel](https://github.com/zhouchaoyuan/excelPanel)
   * [动画lottie-android](https://github.com/airbnb/lottie-android)
+  * [BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)
+  * [SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar)
 *  功能
   * [浏览图片放大旋转as](https://github.com/bm-x/PhotoView)
   * [浏览图片放大旋转eclipse](https://github.com/panhuachao/PhotoViewer)
